@@ -1,4 +1,5 @@
 # hello-world
 This is my very first repository on gitHub. 
 It seems daunting at first but just need to find my way around
-I like git  I hope it woks with windows
+I like git  I hope it works with windows
+Rock on!
